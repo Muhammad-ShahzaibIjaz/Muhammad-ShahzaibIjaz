@@ -28,7 +28,7 @@
 
 ## <h2 align="center">Experience</h2>
 
-- **Frontend Developer Intern** at CloudUp Technologies
+- **Frontend Developer** at CloudUp Technologies
   - **Duration**: May 2023 - Feb 2024
   - **Responsibilities**: Worked on developing and maintaining web applications, collaborating with the design team to create user-friendly interfaces.
 
